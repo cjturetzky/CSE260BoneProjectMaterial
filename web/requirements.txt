@@ -1,10 +1,9 @@
-open3d == 0.10.0
-scikit-learn == 0.23.2
+open3d == 0.14.1
+scikit-learn == 1.6.1
 descartes == 1.1.0
-numpy == 1.19.2
-alphashape == 1.0.2
+numpy
+alphashape == 1.3.1
 pywavefront == 1.3.2
 pandas
 shapely
-sklearn
 pandas
